@@ -11,6 +11,8 @@ Data analysis project to understand buying behaviour.
 - Visualisation 
 - Factor Analysis
 - Principal Component Analysis
+- Classification
+- Clustering 
 
 #### Libraries used 
 - Sk.Learn 
